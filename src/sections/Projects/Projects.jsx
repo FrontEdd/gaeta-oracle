@@ -1,5 +1,5 @@
-import { projectsData } from "../../config/format.config";
 import ProjectCard from "../../common/ProjectCard";
+import { projectsData } from "../../config/format.config";
 
 import styles from "./ProjectsStyles.module.css";
 

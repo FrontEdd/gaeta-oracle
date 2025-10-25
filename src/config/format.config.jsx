@@ -29,3 +29,9 @@ export const projectsData = [
     link: "https://github.com/FrontEdd/tenpo-challenge",
   },
 ];
+
+export const skillGroups = [
+  ["HTML", "CSS", "JavaScript", "TypeScript", "Node"],
+  ["React", "SQL", "Python", "Tailwind CSS"],
+  ["Redux", "Webpack", "Git", "Figma", "Miro"],
+];
