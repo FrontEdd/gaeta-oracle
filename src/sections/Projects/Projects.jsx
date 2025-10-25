@@ -1,8 +1,8 @@
 import viberr from "../../assets/viberr.png";
-import ProjectCard from "../../common/ProjectCard";
 import freshBurger from "../../assets/fresh-burger.png";
 import hipsster from "../../assets/hipsster.png";
 import fitLift from "../../assets/fitlift.png";
+import ProjectCard from "../../common/ProjectCard";
 
 import styles from "./ProjectsStyles.module.css";
 
