@@ -1,4 +1,3 @@
-import styles from "./HeroStyles.module.css";
 import heroImg from "../../assets/hero-img.png";
 import sun from "../../assets/sun.svg";
 import moon from "../../assets/moon.svg";
@@ -10,6 +9,8 @@ import linkedinLight from "../../assets/linkedin-light.svg";
 import linkedinDark from "../../assets/linkedin-dark.svg";
 import CV from "../../assets/cv.pdf";
 import { useTheme } from "../../common/ThemeContext";
+
+import styles from "./HeroStyles.module.css";
 
 function Hero() {
   const { theme, toggleTheme } = useTheme();
